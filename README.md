@@ -1,4 +1,4 @@
-# todo-list
+# GAME STORE
 
 ## Project setup
 ```
